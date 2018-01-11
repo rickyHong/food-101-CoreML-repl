@@ -19,3 +19,6 @@ To test this model you can open the `Food101Prediction.xcodeproj` and run it on 
 <img src="Images/screenshot_lobster.png" align="left" width="160">
 <img src="Images/screenshot_ribs.png" align="left" width="160">
 <img src="Images/screenshot_steak.png" align="left" width="160">
+
+
+https://www.microsoft.com/developerblog/2017/05/12/food-classification-custom-vision-service/
